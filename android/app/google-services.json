@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916738515182",
+    "project_id": "lguide",
+    "storage_bucket": "lguide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916738515182:android:e3cd93978d01ac183c93ff",
+        "android_client_info": {
+          "package_name": "com.lguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916738515182-78m6dn651o553sp43p9tamf4qt1qm9fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOb-vWatgRLldWVzs69SX_NY1RT7RI8qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916738515182-78m6dn651o553sp43p9tamf4qt1qm9fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
